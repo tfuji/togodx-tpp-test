@@ -1,0 +1,464 @@
+[
+  {
+    "categoryId": "Generic.1.0",
+    "label": "Generic.1.0",
+    "count": "551218",
+    "hasChild": false
+  },
+  {
+    "categoryId": "Human.1.0",
+    "label": "Human.1.0",
+    "count": "3327",
+    "hasChild": false
+  },
+  {
+    "categoryId": "Invertebrate.1.0",
+    "label": "Invertebrate.1.0",
+    "count": "953",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIGS.ba.5.0",
+    "label": "MIGS.ba.5.0",
+    "count": "273",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIGS.ba.air.5.0",
+    "label": "MIGS.ba.air.5.0",
+    "count": "46",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIGS.ba.human-associated.5.0",
+    "label": "MIGS.ba.human-associated.5.0",
+    "count": "18",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIGS.ba.human-gut.5.0",
+    "label": "MIGS.ba.human-gut.5.0",
+    "count": "358",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIGS.ba.miscellaneous.5.0",
+    "label": "MIGS.ba.miscellaneous.5.0",
+    "count": "26",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIGS.ba.sediment.5.0",
+    "label": "MIGS.ba.sediment.5.0",
+    "count": "5",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIGS.ba.soil.5.0",
+    "label": "MIGS.ba.soil.5.0",
+    "count": "110",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIGS.ba.wastewater.5.0",
+    "label": "MIGS.ba.wastewater.5.0",
+    "count": "9",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIGS.ba.water.5.0",
+    "label": "MIGS.ba.water.5.0",
+    "count": "58",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIGS.eu.5.0",
+    "label": "MIGS.eu.5.0",
+    "count": "3",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIGS.eu.host-associated.5.0",
+    "label": "MIGS.eu.host-associated.5.0",
+    "count": "24",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIGS.eu.human-gut.5.0",
+    "label": "MIGS.eu.human-gut.5.0",
+    "count": "83",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIGS.eu.microbial.5.0",
+    "label": "MIGS.eu.microbial.5.0",
+    "count": "8",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIGS.eu.miscellaneous.5.0",
+    "label": "MIGS.eu.miscellaneous.5.0",
+    "count": "4",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIGS.eu.soil.5.0",
+    "label": "MIGS.eu.soil.5.0",
+    "count": "512",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIGS.eu.wastewater.5.0",
+    "label": "MIGS.eu.wastewater.5.0",
+    "count": "1",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIGS.eu.water.5.0",
+    "label": "MIGS.eu.water.5.0",
+    "count": "2",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIGS.vi.5.0",
+    "label": "MIGS.vi.5.0",
+    "count": "9",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIGS.vi.host-associated.5.0",
+    "label": "MIGS.vi.host-associated.5.0",
+    "count": "27",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIGS.vi.human-associated.5.0",
+    "label": "MIGS.vi.human-associated.5.0",
+    "count": "190",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIGS.vi.human-oral.5.0",
+    "label": "MIGS.vi.human-oral.5.0",
+    "count": "88",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIGS.vi.soil.5.0",
+    "label": "MIGS.vi.soil.5.0",
+    "count": "2",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIGS.vi.water.5.0",
+    "label": "MIGS.vi.water.5.0",
+    "count": "40",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.specimen.5.0",
+    "label": "MIMARKS.specimen.5.0",
+    "count": "988",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.specimen.air.5.0",
+    "label": "MIMARKS.specimen.air.5.0",
+    "count": "6",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.specimen.built.5.0",
+    "label": "MIMARKS.specimen.built.5.0",
+    "count": "119",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.specimen.host-associated.5.0",
+    "label": "MIMARKS.specimen.host-associated.5.0",
+    "count": "13371",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.specimen.human-associated.5.0",
+    "label": "MIMARKS.specimen.human-associated.5.0",
+    "count": "4378",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.specimen.human-gut.5.0",
+    "label": "MIMARKS.specimen.human-gut.5.0",
+    "count": "8264",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.specimen.human-oral.5.0",
+    "label": "MIMARKS.specimen.human-oral.5.0",
+    "count": "1464",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.specimen.human-vaginal.5.0",
+    "label": "MIMARKS.specimen.human-vaginal.5.0",
+    "count": "453",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.specimen.human-skin.5.0",
+    "label": "MIMARKS.specimen.human-skin.5.0",
+    "count": "134",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.specimen.microbial.5.0",
+    "label": "MIMARKS.specimen.microbial.5.0",
+    "count": "446",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.specimen.miscellaneous.5.0",
+    "label": "MIMARKS.specimen.miscellaneous.5.0",
+    "count": "784",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.specimen.plant-associated.5.0",
+    "label": "MIMARKS.specimen.plant-associated.5.0",
+    "count": "1333",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.specimen.sediment.5.0",
+    "label": "MIMARKS.specimen.sediment.5.0",
+    "count": "295",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.specimen.soil.5.0",
+    "label": "MIMARKS.specimen.soil.5.0",
+    "count": "1727",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.specimen.wastewater.5.0",
+    "label": "MIMARKS.specimen.wastewater.5.0",
+    "count": "361",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.specimen.water.5.0",
+    "label": "MIMARKS.specimen.water.5.0",
+    "count": "872",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.survey.air.5.0",
+    "label": "MIMARKS.survey.air.5.0",
+    "count": "274",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.survey.built.5.0",
+    "label": "MIMARKS.survey.built.5.0",
+    "count": "3549",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.survey.host-associated.5.0",
+    "label": "MIMARKS.survey.host-associated.5.0",
+    "count": "33649",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.survey.human-oral.5.0",
+    "label": "MIMARKS.survey.human-oral.5.0",
+    "count": "7514",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.survey.human-skin.5.0",
+    "label": "MIMARKS.survey.human-skin.5.0",
+    "count": "811",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.survey.human-gut.5.0",
+    "label": "MIMARKS.survey.human-gut.5.0",
+    "count": "20914",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.survey.human-associated.5.0",
+    "label": "MIMARKS.survey.human-associated.5.0",
+    "count": "26206",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.survey.human-vaginal.5.0",
+    "label": "MIMARKS.survey.human-vaginal.5.0",
+    "count": "4733",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.survey.microbial.5.0",
+    "label": "MIMARKS.survey.microbial.5.0",
+    "count": "1851",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.survey.miscellaneous.5.0",
+    "label": "MIMARKS.survey.miscellaneous.5.0",
+    "count": "16729",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.survey.plant-associated.5.0",
+    "label": "MIMARKS.survey.plant-associated.5.0",
+    "count": "13449",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.survey.sediment.5.0",
+    "label": "MIMARKS.survey.sediment.5.0",
+    "count": "5705",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.survey.soil.5.0",
+    "label": "MIMARKS.survey.soil.5.0",
+    "count": "17184",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.survey.wastewater.5.0",
+    "label": "MIMARKS.survey.wastewater.5.0",
+    "count": "3772",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMARKS.survey.water.5.0",
+    "label": "MIMARKS.survey.water.5.0",
+    "count": "16587",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMS.me.air.5.0",
+    "label": "MIMS.me.air.5.0",
+    "count": "3146",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMS.me.built.5.0",
+    "label": "MIMS.me.built.5.0",
+    "count": "910",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMS.me.host-associated.5.0",
+    "label": "MIMS.me.host-associated.5.0",
+    "count": "59977",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMS.me.human-associated.5.0",
+    "label": "MIMS.me.human-associated.5.0",
+    "count": "15166",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMS.me.human-gut.5.0",
+    "label": "MIMS.me.human-gut.5.0",
+    "count": "42361",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMS.me.human-oral.5.0",
+    "label": "MIMS.me.human-oral.5.0",
+    "count": "9342",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMS.me.human-skin.5.0",
+    "label": "MIMS.me.human-skin.5.0",
+    "count": "11294",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMS.me.human-vaginal.5.0",
+    "label": "MIMS.me.human-vaginal.5.0",
+    "count": "3581",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMS.me.microbial.5.0",
+    "label": "MIMS.me.microbial.5.0",
+    "count": "2029",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMS.me.miscellaneous.5.0",
+    "label": "MIMS.me.miscellaneous.5.0",
+    "count": "4523",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMS.me.plant-associated.5.0",
+    "label": "MIMS.me.plant-associated.5.0",
+    "count": "18802",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMS.me.sediment.5.0",
+    "label": "MIMS.me.sediment.5.0",
+    "count": "7268",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMS.me.soil.5.0",
+    "label": "MIMS.me.soil.5.0",
+    "count": "38681",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMS.me.wastewater.5.0",
+    "label": "MIMS.me.wastewater.5.0",
+    "count": "5117",
+    "hasChild": false
+  },
+  {
+    "categoryId": "MIMS.me.water.5.0",
+    "label": "MIMS.me.water.5.0",
+    "count": "23109",
+    "hasChild": false
+  },
+  {
+    "categoryId": "Metagenome.environmental.1.0",
+    "label": "Metagenome.environmental.1.0",
+    "count": "599575",
+    "hasChild": false
+  },
+  {
+    "categoryId": "Microbe.1.0",
+    "label": "Microbe.1.0",
+    "count": "13600",
+    "hasChild": false
+  },
+  {
+    "categoryId": "Model.organism.animal.1.0",
+    "label": "Model.organism.animal.1.0",
+    "count": "6521",
+    "hasChild": false
+  },
+  {
+    "categoryId": "Plant.1.0",
+    "label": "Plant.1.0",
+    "count": "92",
+    "hasChild": false
+  },
+  {
+    "categoryId": "Virus.1.0",
+    "label": "Virus.1.0",
+    "count": "75",
+    "hasChild": false
+  }
+]
